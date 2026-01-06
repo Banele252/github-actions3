@@ -11,7 +11,7 @@ jobs:
     env: 
       MONGODB_CLUSTER_ADDRESS: cluster0.k3rfzyy.mongodb.net
       MONGODB_USERNAME: 
-      MONGODB_PASSOWRD: 
+      MONGODB_PASSWORD: 
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
